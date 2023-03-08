@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEEDB808492Fe3Ea7FA9c7aB607624be6A1095CcF",
+  "SCAN_LINK": "https://blockscout.scroll.io/address/0xEEDB808492Fe3Ea7FA9c7aB607624be6A1095CcF",
+  "NETWORK": {
+    "NAME": "Scroll",
+    "SYMBOL": "ETH",
+    "ID": 534353
+  },
+  "NFT_NAME": "SCROLL_OG_NFT",
+  "SYMBOL": "SAN",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 9000000000000000,
+  "DISPLAY_COST": 0.009,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "#",
+  "SHOW_BACKGROUND": true
+}
